@@ -1,0 +1,4 @@
+1-download dlib ve CMake (c++) kutuphanesi burdan :https://cmake.org/download/
+dikkat: visual studio 2017 ve uzere bilgisayarinda olmasi gerek ve cmake ++ ordan da indirebilirsiniz 
+2-download shape_predictor_69_face_landmarks.dat 
+burdan indirebilirsiniz https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
