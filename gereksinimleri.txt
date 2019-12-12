@@ -1,3 +1,4 @@
+face_detection_with_trained_model icin yapmaniz  gereken seyler
 1-download dlib ve CMake (c++) kutuphanesi burdan :https://cmake.org/download/
 dikkat: visual studio 2017 ve uzere bilgisayarinda olmasi gerek ve cmake ++ ordan da indirebilirsiniz 
 2-download shape_predictor_69_face_landmarks.dat 
